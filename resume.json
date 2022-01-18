@@ -67,19 +67,18 @@
   ],
   "work": [
     {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
+      "summary": "Induce Digital Transformation Journeys in potential customers employing our SaaS product in diverse industries including Hydrogen Systems, Renewable Energy, Bulk Product Distribution and Oil & Gas.",
+      "website": "https://www.emerson.com/en-ca/automation/control-and-safety-systems/scada-systems/zedi-cloud-scada-solutions",
+      "name": "Emerson Automation Solutions",
+      "location": "Calgary",
+      "position": "Director of International Business Development for Zedi Cloud SCADA (IoT SaaS)",
+      "startDate": "2020-09-01",
+      "endDate": "2021-10-01",
       "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
+        "+Increased: Named pursuit funnel, 6 x in 12 Months (Total potential Contract Value approximately USD25M)",
+        "+Selected, Trained and Supported: 20 Total IoT SaaS Subject Matter Experts in 12 Months via MS Teams",
+        "+Delivered: IoT SaaS Sales Awareness Training to ~1000 Emerson Business Development and Partner Staff around the world.",
+        "+Established: Meaningful working relationships with Regional Executives and key Business Development resources around the world without the opportunity to meet in person."
       ]
     } 
   ],
