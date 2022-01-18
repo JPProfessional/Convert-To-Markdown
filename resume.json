@@ -6,22 +6,22 @@
     "name": "John Perrin",
     "label": "Excellence from the future, TODAY.",
     "image": "https://github.com/JPProfessional/JPProfessional.github.io/blob/main/img/personalProfilePicJohnPerrin.JPG",
-    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "summary": "Adaptable, savvy and professional. I overcome challenges around the world through strategic judgement, clear communication, ensuring stakeholder engagement and perfect execution.",
+    "website": "JPProfessional.github.io",
+    "email": "perrin.john@gmail.com",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "city": "Calgary",
+      "countryCode": "CA"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
+        "url": "https://www.linkedin.com/in/johnperrinpeng/",
+        "username": "John Perrin",
+        "network": "LinkedIn"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
+        "url": "https://github.com/JPProfessional",
+        "username": "JPProfessional",
         "network": "github"
       }
     ]
