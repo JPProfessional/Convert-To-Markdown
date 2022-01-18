@@ -1,0 +1,497 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "John Perrin",
+    "label": "Adaptable, savvy and professional. I overcome challenges around the world through strategic judgement, clear communication, ensuring stakeholder engagement and perfect execution.",
+    "image": "",
+    "email": "perrin.john@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Adaptable and business-savvy professional with decades of success across a broad range of leadership, sales and technical roles. Proven ability to communicate technical information, strategize, develop business and ensure project success.",
+    "location": {
+      "countryCode": "US",
+      "address": "Calgary, Alberta, Canada"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "johnperrinpeng",
+        "url": "https://www.linkedin.com/in/johnperrinpeng/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DIKUW Incorporated",
+      "position": "Founder",
+      "startDate": "2019-03-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "DIKUW specializes in enabling YOUR TEAM to overcome barriers to success. DIKUW collaborates with a focus on fundamental principles to assess, suggest and implement the optimal solution — all to provide exceptional advice that will transform your business and provide value for years to come.",
+      "url": "https://www.linkedin.com/company/dikuw/",
+      "location": "Canada"
+    },
+    {
+      "name": "Emerson Automation Solutions",
+      "position": "Director, International Business Development, Zedi Cloud SCADA (IoT SaaS Platform)",
+      "startDate": "2020-09-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "-Zedi Cloud SCADA Business Development (SaaS) outside of North America.\n-Support the existing Emerson organization in increasing autonomy with respect to Zedi Cloud SCADA Solution pursuit selection, technical design, implementation, support and Customer Success.\n-Close Industrial Internet of Things - IIoT deals using PPVVCC positioning.\n-APEGA Responsible Member",
+      "url": "https://www.linkedin.com/company/emerson-automation-solutions/",
+      "location": "Calgary, Alberta, Canada"
+    },
+    {
+      "name": "Emerson Automation Solutions",
+      "position": "Director, Automation Engineering, Zedi Cloud SCADA (IoT SaaS Platform)",
+      "startDate": "2020-02-28",
+      "endDate": "2020-09-30",
+      "highlights": [],
+      "summary": "As Director, Automation Engineering: Achieved an across the board KPI improvement of Automation project Implementation and Support including:\n    • Create, deploy, and direct continuous improvement of a “Perfect Execution” approach to Zedi Automation Engineering \n    • Initiate, select, oversee training and integrate “Best Cost Center” Pune, India resources from into the AE Team. \n    • APEGA Responsible Member for Automation Engineering under Emerson Electric Canada Limited (EECL) Permit to Practice.",
+      "url": "https://www.linkedin.com/company/emerson-automation-solutions/",
+      "location": "Calgary, Alberta, Canada"
+    },
+    {
+      "name": "Emerson Automation Solutions",
+      "position": "Manager, Automation Engineering, Zedi Cloud SCADA (IoT SaaS Platform)",
+      "startDate": "2019-08-31",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "-Contribute to and deliver on ZCSS Automation annual budget and forecast commitments.\n-Promote coordination of Automation Engineering efforts company wide.\n-Provide guidance on fit for purpose Cloud SCADA Solutions across the technical value chain.\n-Provide oversight on complex automation project execution as required.\n-Review and approve engineering documentation such as technical drawings, FEED (Front-End Engineer and Design) Studies, Standard Operating Procedures, Acceptance Tests and Scopes of Work as required.\n-APEGA Responsible Member - Automation Engineering",
+      "url": "https://www.linkedin.com/company/emerson-automation-solutions/",
+      "location": "Calgary, Alberta, Canada"
+    },
+    {
+      "name": "Emerson Automation Solutions",
+      "position": "Team Lead, Customer Solutions Engineering, Zedi Cloud SCADA (IoT SaaS Platform)",
+      "startDate": "2019-05-31",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "-Provide technical leadership & support to Customer Solutions Engineering team.\n-Oversee end-to-end design and delivery of SCADA automation systems and leading complex automation projects.\n-Mentor junior Customer Solutions Engineers/Specialists.\n-Continually improve project and solutions delivery processes.\n-Interface with customer management, operations, engineering and field teams during design review and project status meetings.\n-End-to-end design of SCADA automation systems for Oil & Gas well sites, batteries and plant facilities in the Canadian and International markets.\n-Generation, Review and Approval of Technical Drawings (P&ID, electrical panel IFC drawings, network architectures, system block diagrams, etc.).",
+      "url": "https://www.linkedin.com/company/emerson-automation-solutions/",
+      "location": "Calgary, Alberta, Canada"
+    },
+    {
+      "name": "Weatherford",
+      "position": "Product Line Manager - Reservoir Services (Laboratories and Sub-Surface Consulting)",
+      "startDate": "2017-04-30",
+      "endDate": "2018-06-30",
+      "highlights": [],
+      "summary": "Recruited to lead a Geoscience, Fluid PVT (Pressure Volume Temperature) and SCAL (Special Core Analysis) laboratory. Implemented a cultural change and renewed focus on oilfield service fundamentals including: \n    • Improved P&L: Through a no holds barred approach to topline revenue generation and variable-cost control, EBITDA moved from heavily negative through to neutral or slightly positive. \n    • Cultural Change: Focusing on team and personal accountability, I led an increase in compliance and process discipline reflected in improved QHSSE KPIs and COR Audit performance.\n    • Innovation: Shepherded operations team in the engineering development of techniques and equipment for a 10 client, multi-million-dollar Lean Gas Cycling Joint Industry Partnership.",
+      "url": "https://www.linkedin.com/company/weatherford/",
+      "location": "Calgary, Canada Area"
+    },
+    {
+      "name": "Enerplus",
+      "position": "Staff Petrophysical Engineer",
+      "startDate": "2012-03-31",
+      "endDate": "2015-06-30",
+      "highlights": [],
+      "summary": "Recruited by the Chief Geoscientist to expand the rigorous use of Petrophysics across Enerplus.\nEstablished a foundation of Petrophysical knowledge throughout the organization by performing\nadvanced analysis and delivering formal and informal training to geoscientists, engineers and managers.",
+      "url": "https://www.linkedin.com/company/enerplus/"
+    },
+    {
+      "name": "Calmena Energy Services Inc.",
+      "position": "Business Development Manager - Microseismic Monitoring and Completion Technology",
+      "startDate": "2010-12-31",
+      "endDate": "2012-02-28",
+      "highlights": [],
+      "summary": "Joined a hungry oil field services start up and grew our share of the Microseismic Fracture Monitoring and Horizontal Completion Technology market in Canada.",
+      "url": "https://www.linkedin.com/company/calmena-energy-services-inc./"
+    },
+    {
+      "name": "Tendeka",
+      "position": "Vice President NSA, Regional Manager Canada & Strategic Relationship Manager NSA",
+      "startDate": "2008-04-30",
+      "endDate": "2010-12-31",
+      "highlights": [],
+      "summary": "Recruited as Vice President – North and South America for Sensornet Limited then promoted to Strategic Relationships Manager and Regional Manager Canada after Tendeka consolidation within Kenda Capital aka Shell Technology Ventures Fund group of companies.",
+      "url": "https://www.linkedin.com/company/tendeka/"
+    },
+    {
+      "name": "ConocoPhillips Canada",
+      "position": "Senior Petrophysicist",
+      "startDate": "2007-05-31",
+      "endDate": "2008-04-30",
+      "highlights": [],
+      "summary": "Recruited by former clients in the Technical Excellence department to perform regional petrophysical studies as part of a multidisciplinary team.",
+      "url": "https://www.linkedin.com/company/conocophillips/",
+      "location": "Calgary, Canada Area"
+    },
+    {
+      "name": "Schlumberger",
+      "position": "Field Engineer, Sales and Recruiting",
+      "startDate": "2000-07-31",
+      "endDate": "2006-12-31",
+      "highlights": [],
+      "summary": "Joined Schlumberger as a Wireline Field Engineer Trainee and progressed through the ranks to General Field Engineer in Charge over 4 years in Saudi Arabia, Kuwait and United Arab Emirates. Subsequently transferred to Calgary in Wireline Sales and finally promoted to Canada Recruiter for one year.",
+      "url": "https://www.linkedin.com/company/schlumberger/",
+      "location": "Worldwide Locations"
+    },
+    {
+      "name": "AECL",
+      "position": "Reactor Services Engineer",
+      "startDate": "1997-12-31",
+      "endDate": "2000-12-31",
+      "highlights": [],
+      "summary": "After a successful internship at Chalk River National Laboratories I joined Reactor Services to research, build, inspect and repair CANDU Nuclear Fuel Channel Components.",
+      "url": "https://www.linkedin.com/company/aecl/",
+      "location": "Mississauga,Ontario"
+    },
+    {
+      "name": "AECL",
+      "position": "Cernavoda Unit 2 Fuel Channel Installation Supervisor",
+      "startDate": "1999-02-28",
+      "endDate": "1999-08-31",
+      "highlights": [],
+      "summary": "Coordinated work of Nuclear Fuel Channel Installation of Cernavoda Unit 2 Nuclear Generating Station (https://en.wikipedia.org/wiki/Cernavod%C4%83_Nuclear_Power_Plant)",
+      "url": "https://www.linkedin.com/company/aecl/",
+      "location": "Cernavodă, Constanţa, Romania"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Engineers Canada | Ingénieurs Canada",
+      "position": "Member - Autonomous Systems Advisory Group",
+      "startDate": "2020-09-30",
+      "endDate": "2021-12-31",
+      "summary": "Member of an advisory group created to help guide the development of a detailed research paper on \"Autonomous Systems\" by defining scope and key terms, reviewing materials, and providing feedback and direction. The purpose is to produce a substantiated research document for the regulators to consider these issues within their own jurisdictions.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Big Brothers and Big Sisters of Calgary & Area",
+      "position": "Big Brother",
+      "startDate": "2008-05-31",
+      "endDate": "2013-05-31",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Canadian Progress Club",
+      "position": "Member",
+      "startDate": "2006-09-30",
+      "endDate": "2011-06-30",
+      "summary": "Positions held in Calgary Downtown Chapter\nPresident 2010\nVice President 2009\nHouse Chair 2008 \nDogie Do Rodeo Sponsorship Chair 2009 - 2010",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "GeoConvention Partnership",
+      "position": "2015 Session Co-Chair: New Ideas in Western Canadian Resource Plays",
+      "startDate": "2015-05-31",
+      "endDate": "",
+      "summary": "https://www.linkedin.com/in/geoconvention/\nPage 34 - https://geoconvention.com/wp-content/uploads/abstracts/2015/GeoCon_Handbook_2015.pdf",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Alberta",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "1993-09-30",
+      "endDate": "1997-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Acadia University",
+      "area": "Engineering",
+      "studyType": "Certificate of Applied Science",
+      "startDate": "1991-09-30",
+      "endDate": "1993-05-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Pathfinder Scout",
+      "date": "1987-06-30",
+      "awarder": "Scouts Canada",
+      "summary": "The Pathfinder Scout  Award is the highest award which can be achieved at the Scout level in Scouts Canada."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Professional Engineer - Province of Ontario",
+      "issuer": "Professional Engineers Ontario",
+      "startDate": "2000-10-31"
+    },
+    {
+      "name": "Professional Engineer - Province of Alberta",
+      "issuer": "The Association of Professional Engineers and Geoscientists of Alberta (APEGA)",
+      "startDate": "2007-05-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Business Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technology Commercialization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Relationships",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oilfield",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CRM Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Formation Evaluation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Petroleum Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Log Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GeoScout",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Drilling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Energy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solution Selling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nuclear",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Earth Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Remote Sensing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Power BI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nuclear Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oil & Gas",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technology Start-up",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geographic Information Systems (GIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gas",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reactor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Techlog",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Dynamics CRM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Petroleum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Petrophysics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Six Sigma",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Energy Industry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Wireline",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reservoir Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hard Dollar",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geolog",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "InEight",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Completion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Primavera P6",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Upstream",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "French"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Romanian"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Robert Gunn FRSA P.Eng",
+      "reference": "John was an engineer working within the Field Services Department of Atomic Energy of Canada ltd. John was responsible for supporting and executing a variety of engineering field services. \r\n\r\nJohn was very quick to understand and analyze technical problems.  He communicated clearly to both subordinates and supervisors. He demonstrated clear leadership skills coupled with an enthusiasm to accept assignments of increasing responsibility.  The quality of his work was excellent and his productivity frequently exceeded expectations."
+    },
+    {
+      "name": "Ralph Merry",
+      "reference": "John was the salesman/advocate/representative for BR while he worked at Schlumberger.  He was the by far the best person in this role as I have ever encountered. He has focused on project definition, management, and completion in a very professional and orchestrated manner. I wish we had more people with such talent working in that function.\r\n\r\nI thought so much of the man, I later hired him at COP where he did adapted quickly and did an excellent job in a technical leadership role."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
