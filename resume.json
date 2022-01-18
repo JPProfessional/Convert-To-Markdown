@@ -1,5 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  { "meta": { "theme": "elegant" } },
   "basics": {
     "name": "John Perrin",
     "label": "Adaptable, savvy and professional. I overcome challenges around the world through strategic judgement, clear communication, ensuring stakeholder engagement and perfect execution.",
