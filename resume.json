@@ -10,7 +10,9 @@
     "website": "JPProfessional.github.io",
     "email": "perrin.john@gmail.com",
     "location": {
+      "address": "Bearspaw",
       "city": "Calgary",
+      "region": "Alberta",
       "countryCode": "CA"
     },
     "profiles": [
