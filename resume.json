@@ -46,18 +46,20 @@
   "references": [],
   "skills": [
     {
+      "name": "Leadership",
+      "keywords": ["Strategic Thinkning", "Empower Team Members", "Effective Communication"]
+    },
+    {
       "name": "Business Devlopment",
-      "keywords": ["Market Assessment", "Stakeholder Engagement", "Closing Profitable Deals"]
+      "keywords": ["Closing Profitable Deals", "Market Assessment", "Stakeholder Engagement"]
     },
-    {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
+     {
+      "name": "Continuous Improvement",
+      "keywords": ["Goalsetting", "Change Management", "Ongoing Assessment"]
     },
-    {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
+     {
+      "name": "Engineering",
+      "keywords": ["Industrial Automation", "Petroleum Reservoir Assessment", "Machine Design"]
     }
   ],
   "awards": [
