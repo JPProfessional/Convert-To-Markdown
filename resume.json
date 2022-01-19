@@ -47,11 +47,7 @@
   "skills": [
     {
       "name": "Business Devlopment",
-      "keywords": [
-        "Market Assessment",
-        "Stakeholder Engagement",
-        "Closing Profitable Deals"
-      ]
+      "keywords": ["Market Assessment", "Stakeholder Engagement", "Closing Profitable Deals"]
     },
     {
       "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
