@@ -46,15 +46,12 @@
   "references": [],
   "skills": [
     {
+      "name": "Business Devlopment",
       "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
+        "Market Assessment",
+        "Stakeholder Engagement",
+        "Closing Profitable Deals",
+      ]
     },
     {
       "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
@@ -69,8 +66,12 @@
   ],
   "awards": [
     {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
+      "title": "Pathfinder Award",
+      "awarder": "Scouts Canada and Governor General of Canada"
+    },
+    {
+      "title": "Man of The Year",
+      "awarder": "Canadian Progress Club - Calgary Downtown"
     }
   ],
   "work": [
@@ -119,16 +120,16 @@
   ],
   "interests": [
     {
-      "name": "Gardening"
+      "name": "Golf"
     },
     {
-      "name": "Music / Jamming"
+      "name": "Sailing"
     },
     {
-      "name": "Reading / Writing"
+      "name": "Comedy"
     },
     {
-      "name": "Open Source"
+      "name": "Volunteering"
     }
   ]
 }
