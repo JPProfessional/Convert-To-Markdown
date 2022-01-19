@@ -40,7 +40,8 @@
       "startDate": "1991-09-01",
       "area": "Engineering",
       "studyType": "Certificate of Applied Science (C.A.S.)",
-      "institution": "Acadia University"
+      "institution": "Acadia University",
+      "url": "https://www2.acadiau.ca/prg_ug_apsc.html"
     }
   ],
   "references": [],
@@ -72,7 +73,7 @@
       "awarder": "Canadian Progress Club - Calgary Downtown"
     }
   ],
- "work": [
+  "work": [
     {
       "summary": "Induce Digital Transformation Journeys in potential customers employing our SaaS product in diverse industries including Hydrogen Systems, Renewable Energy, Bulk Product Distribution and Oil & Gas.",
       "website": "https://www.zedisolutions.com/",
